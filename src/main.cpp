@@ -19,7 +19,24 @@ int main() {
 	//A_ZigZagConvert();
 	//A_isPalindrome();
 	//B_minDistance();
-	B_UniquePaths();
+	//B_UniquePaths();
+	//B_CanJump();
+	//A_Jump();
+	//A_StringMultiply();
+	//C_WeiQi();
+	//D_LIS();
+	//A_Anagram();
+	//D_maxSubsequence();
+	//C_numDistinct();
+	//C_PascalTriangle();
+	//C_MinimumTotal();
+	//C_IsPalindrome();
+	//*C_WordLadder();
+	//C_levelOrder();
+	//C_SortedArrayToBST();
+	//C_ZigzagLevelOrder();
+	//C_MaxDepth();
+	C_BuildTree2();
 }
 
 
